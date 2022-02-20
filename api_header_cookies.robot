@@ -1,7 +1,7 @@
 *** Settings ***
 Library  RequestsLibrary
 Library  Collections
-
+##this example will help to clarify how to check cookies and headers from API response
 *** Variables ***
 ${base_url}  https://www.youtube.com
 
